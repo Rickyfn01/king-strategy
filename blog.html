@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Merchant Strategic Insights dari KING Strategy. Edukasi MSO, studi kasus, dan rahasia algoritma GoFood, GrabFood, ShopeeFood.">
+    <title>Blog | Merchant Strategic Insights — KING Strategy</title>
+    
+    <!-- Open Graph Data -->
+    <meta property="og:title" content="Blog | Merchant Strategic Insights — KING Strategy" />
+    <meta property="og:description" content="Edukasi MSO, studi kasus, dan rahasia algoritma GoFood, GrabFood, ShopeeFood." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://king-strategy.vercel.app/blog.html" />
+    <link rel="canonical" href="https://king-strategy.vercel.app/blog.html" />
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+    
+    <!-- Feather Icons CDN -->
+    <script src="https://unpkg.com/feather-icons"></script>
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/src/style.css" />
+    <style>
+      .insight-card {
+        transition: transform 0.3s ease, border-color 0.3s ease;
+      }
+      .insight-card:hover {
+        transform: translateY(-5px);
+        border-color: rgba(201, 169, 110, 0.5);
+      }
+      .badge-casestudy {
+        background-color: rgba(74, 222, 128, 0.1);
+        color: #4ade80;
+        border: 1px solid rgba(74, 222, 128, 0.2);
+      }
+      .badge-algorithm {
+        background-color: rgba(96, 165, 250, 0.1);
+        color: #60a5fa;
+        border: 1px solid rgba(96, 165, 250, 0.2);
+      }
+    </style>
+  </head>
+  <body class="bg-king-black text-king-white font-sans antialiased overflow-x-hidden">
+    
+    <!-- HEADER -->
+    <header id="header" class="fixed top-0 left-0 w-full z-50 transition-all duration-300 bg-king-black/80 backdrop-blur-md border-b border-white/5">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-20">
+          <div class="flex-shrink-0 flex items-center">
+            <a href="/index.html" class="font-serif font-bold text-2xl tracking-wider text-king-white">
+              K<span class="relative">I<span class="absolute -top-3 left-1/2 -translate-x-1/2 text-[10px] text-king-gold">👑</span></span>NG STRATEGY
+            </a>
+          </div>
+          <nav class="hidden md:flex space-x-8">
+            <a href="/index.html#masalah" class="text-gray-300 hover:text-king-gold transition-colors text-sm font-medium">Tentang Kami</a>
+            <a href="/index.html#pilar" class="text-gray-300 hover:text-king-gold transition-colors text-sm font-medium">5 Pilar</a>
+            <a href="/index.html#portofolio" class="text-gray-300 hover:text-king-gold transition-colors text-sm font-medium">Portofolio</a>
+            <a href="/index.html#paket" class="text-gray-300 hover:text-king-gold transition-colors text-sm font-medium">Paket</a>
+            <a href="/blog.html" class="text-king-gold font-medium text-sm">Blog</a>
+          </nav>
+          <div class="hidden md:flex items-center">
+            <a href="/index.html#cta" class="bg-king-gold hover:bg-yellow-600 text-king-black font-semibold py-2.5 px-6 rounded-full transition-transform hover:scale-105 shadow-[0_0_15px_rgba(201,169,110,0.4)]">
+              Ambil Slot Konsultasi
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="pt-24 min-h-screen">
+      <!-- INSIGHTS SECTION -->
+      <section id="insights" class="py-16 relative overflow-hidden">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+          <div class="text-center mb-16 fade-in-section">
+            <p class="text-king-gold font-semibold tracking-widest uppercase text-sm mb-4">Merchant Strategic Insights</p>
+            <h1 class="text-4xl lg:text-5xl font-serif font-bold text-king-white mb-4">Pelajari Rahasia Algoritma</h1>
+            <p class="text-gray-400 text-lg max-w-2xl mx-auto">Edukasi MSO dan studi kasus untuk memaksimalkan performa toko Anda di tahun 2026.</p>
+          </div>
+          <div id="insights-grid" class="grid grid-cols-1 md:grid-cols-2 gap-8 fade-in-section" itemscope itemtype="https://schema.org/ItemList">
+            <!-- JS will render cards here -->
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer id="footer" class="bg-king-black py-12 border-t border-white/5">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="font-serif font-bold text-2xl tracking-wider text-king-white mb-6">
+          K<span class="relative">I<span class="absolute -top-3 left-1/2 -translate-x-1/2 text-[10px] text-king-gold">👑</span></span>NG STRATEGY
+        </div>
+        <p class="text-gray-500 text-sm mb-2">Berbasis di Yogyakarta, Melayani Seluruh Indonesia.</p>
+        <p class="text-gray-600 text-sm">© 2026 KING Strategy Agency. All Rights Reserved.</p>
+      </div>
+    </footer>
+
+    <script type="module" src="/src/main.js"></script>
+    <script type="module" src="/src/blog.js"></script>
+    <script>
+      feather.replace();
+    </script>
+  </body>
+</html>

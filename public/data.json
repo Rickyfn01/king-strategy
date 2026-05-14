@@ -1,0 +1,20 @@
+[
+  {
+    "id": "LOG_01",
+    "date": "2026-05-10",
+    "title": "Rahasia Geback Yogyakarta Naik 51% di GoFood",
+    "category": "Case Study",
+    "snippet": "Bagaimana teknik MSO mengubah deskripsi menu menjadi mesin penjual otomatis menggunakan kata kunci sensoris.",
+    "link": "/article.html?id=LOG_01",
+    "content": "\n      <h2>Tantangan Geback Yogyakarta</h2>\n      <p>Geback Yogyakarta menghadapi masalah klasik merchant lokal: produk luar biasa namun kesulitan menembus algoritma GoFood yang sangat kompetitif. Nama toko yang terlalu teknis ('Geback Yogyakarta, Jl. Kartini') dan deskripsi menu yang kosong menyebabkan produk mereka terkubur di bawah halaman 3-5 hasil pencarian.</p>\n      \n      <h2>Solusi MSO: Identity Unification & AEO Injection</h2>\n      <p>KING Strategy melakukan perombakan total. Pertama, <strong>Identity Unification</strong> menyatukan otoritas Google Maps dan GoFood mereka dengan mengubah nama toko menjadi 'Geback Yogyakarta - Specialty Croissant & Artisan Pastry'.</p>\n      <p>Kedua, kami menerapkan <strong>AEO Menu Injection</strong>. Kami menyuntikkan kata-kata sensoris seperti 'Wangi Butter Perancis', 'Tekstur Flaky', dan 'Lumer' ke dalam deskripsi menu. Ini tidak hanya menarik bagi pelanggan, tetapi juga memberikan sinyal kuat kepada AI Search (seperti ChatGPT dan Gemini) bahwa Geback adalah rekomendasi utama untuk pastry di Yogyakarta.</p>\n\n      <h2>Hasil Nyata</h2>\n      <ul>\n        <li>Search Ranking melompat dari Halaman 3-5 menjadi Top 5.</li>\n        <li>Impressions mingguan meroket dari 2.100 menjadi 4.800.</li>\n        <li>Conversion rate meningkat tajam dari 8.2% ke 14.5%.</li>\n      </ul>\n      <p><strong>Total Peningkatan Visibilitas & Konversi Kolektif: +51%.</strong> Sekali dieksekusi, hasilnya memberikan ROI jangka panjang untuk bisnis.</p>\n    "
+  },
+  {
+    "id": "LOG_02",
+    "date": "2026-05-12",
+    "title": "Kenapa Toko Anda Terkubur di Halaman Bawah GrabFood?",
+    "category": "Algorithm",
+    "snippet": "Membongkar cara kerja algoritma 2026 dan pentingnya Identity Unification untuk merchant lokal Jogja.",
+    "link": "/article.html?id=LOG_02",
+    "content": "\n      <h2>Algoritma Telah Berubah</h2>\n      <p>Di tahun 2026, algoritma pencarian di aplikasi delivery tidak lagi hanya mengandalkan jarak dan rating. Mereka menggunakan model prediktif kompleks yang mencari 'Sinyal Otoritas' dari sebuah merchant. Jika toko Anda tenggelam, kemungkinan besar Anda kekurangan sinyal tersebut.</p>\n\n      <h2>Kesalahan Umum Merchant Lokal</h2>\n      <p>Banyak merchant berfokus pada foto estetik atau diskon jor-joran, namun melupakan fundamental SEO lokal. Nama merchant yang ambigu, kategori yang salah, dan absennya konsistensi entitas antara Google Maps, Instagram, dan GrabFood membuat algoritma mengklasifikasikan toko Anda sebagai 'entitas berisiko rendah relevansi'.</p>\n\n      <h2>Identity Unification: Kunci Dominasi</h2>\n      <p>Sistem <strong>Identity Unification</strong> yang diterapkan oleh KING Strategy bertujuan untuk merantai semua aset digital toko Anda menjadi satu 'Entity' yang kuat. Ketika algoritma memverifikasi bahwa rating Google Maps Anda selaras dengan otoritas pencarian organik dan metadata GrabFood Anda, algoritma akan dengan sendirinya memprioritaskan toko Anda di atas pesaing yang hanya mengandalkan diskon.</p>\n    "
+  }
+]

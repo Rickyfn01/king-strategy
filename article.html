@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Merchant Strategic Insights dari KING Strategy.">
+    <title>Artikel | KING Strategy</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+    
+    <!-- Feather Icons CDN -->
+    <script src="https://unpkg.com/feather-icons"></script>
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/src/style.css" />
+    <style>
+      /* Article Specific Styling */
+      .article-content h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.75rem;
+        font-weight: 700;
+        color: #C9A96E; /* king-gold */
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+      }
+      .article-content p {
+        color: #d1d5db; /* gray-300 */
+        margin-bottom: 1.25rem;
+        line-height: 1.8;
+      }
+      .article-content strong {
+        color: #fff;
+        font-weight: 600;
+      }
+      .article-content ul {
+        list-style-type: disc;
+        margin-left: 1.5rem;
+        margin-bottom: 1.25rem;
+        color: #d1d5db;
+      }
+      .article-content li {
+        margin-bottom: 0.5rem;
+      }
+    </style>
+  </head>
+  <body class="bg-king-black text-king-white font-sans antialiased overflow-x-hidden">
+    
+    <!-- HEADER -->
+    <header id="header" class="fixed top-0 left-0 w-full z-50 transition-all duration-300 bg-king-black/80 backdrop-blur-md border-b border-white/5">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-20">
+          <div class="flex-shrink-0 flex items-center">
+            <a href="/index.html" class="font-serif font-bold text-2xl tracking-wider text-king-white">
+              K<span class="relative">I<span class="absolute -top-3 left-1/2 -translate-x-1/2 text-[10px] text-king-gold">👑</span></span>NG STRATEGY
+            </a>
+          </div>
+          <nav class="hidden md:flex space-x-8">
+            <a href="/index.html#masalah" class="text-gray-300 hover:text-king-gold transition-colors text-sm font-medium">Tentang Kami</a>
+            <a href="/index.html#pilar" class="text-gray-300 hover:text-king-gold transition-colors text-sm font-medium">5 Pilar</a>
+            <a href="/index.html#portofolio" class="text-gray-300 hover:text-king-gold transition-colors text-sm font-medium">Portofolio</a>
+            <a href="/index.html#paket" class="text-gray-300 hover:text-king-gold transition-colors text-sm font-medium">Paket</a>
+            <a href="/blog.html" class="text-gray-300 hover:text-king-gold transition-colors text-sm font-medium">Blog</a>
+          </nav>
+          <div class="hidden md:flex items-center">
+            <a href="/index.html#cta" class="bg-king-gold hover:bg-yellow-600 text-king-black font-semibold py-2.5 px-6 rounded-full transition-transform hover:scale-105 shadow-[0_0_15px_rgba(201,169,110,0.4)]">
+              Ambil Slot Konsultasi
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="pt-24 min-h-screen">
+      <article id="article-container" class="py-16 relative overflow-hidden" itemscope itemtype="https://schema.org/Article">
+        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+          <!-- Back Link -->
+          <a href="/blog.html" class="inline-flex items-center gap-2 text-king-gold hover:text-yellow-500 mb-8 font-medium transition-colors">
+            <i data-feather="arrow-left" class="w-4 h-4"></i> Kembali ke Blog
+          </a>
+
+          <!-- Loading State -->
+          <div id="loading" class="text-center py-20">
+            <div class="animate-spin w-8 h-8 border-2 border-king-gold border-t-transparent rounded-full mx-auto mb-4"></div>
+            <p class="text-gray-400">Memuat artikel...</p>
+          </div>
+
+          <!-- Dynamic Content Container -->
+          <div id="article-content" class="hidden fade-in-section">
+            <header class="mb-12 border-b border-white/5 pb-8">
+              <div class="flex items-center gap-4 mb-6">
+                <span id="article-category" class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded-full bg-king-gold/10 text-king-gold border border-king-gold/20" itemprop="articleSection"></span>
+                <time id="article-date" class="text-sm text-gray-500 font-mono" itemprop="datePublished"></time>
+              </div>
+              <h1 id="article-title" class="text-4xl md:text-5xl font-serif font-bold text-white leading-tight mb-6" itemprop="headline"></h1>
+              <p id="article-snippet" class="text-xl text-gray-400 font-light leading-relaxed" itemprop="description"></p>
+            </header>
+
+            <div id="article-body" class="article-content text-lg" itemprop="articleBody">
+              <!-- Content rendered here -->
+            </div>
+            
+            <meta itemprop="author" content="KING Strategy" />
+            <meta itemprop="publisher" content="KING Strategy" />
+          </div>
+
+          <!-- 404 State -->
+          <div id="error-state" class="hidden text-center py-20">
+            <i data-feather="file-text" class="w-16 h-16 text-gray-600 mx-auto mb-4"></i>
+            <h2 class="text-2xl font-serif font-bold text-white mb-4">Artikel Tidak Ditemukan</h2>
+            <p class="text-gray-400 mb-8">Maaf, artikel yang Anda cari tidak ada atau mungkin sudah dihapus.</p>
+            <a href="/blog.html" class="px-6 py-3 border border-king-gold text-king-gold hover:bg-king-gold/10 rounded-full text-sm font-semibold transition-all">
+              Lihat Semua Artikel
+            </a>
+          </div>
+
+        </div>
+      </article>
+
+      <!-- CTA Inside Article -->
+      <section class="py-16 bg-king-gray border-t border-white/5 text-center mt-12">
+        <div class="max-w-2xl mx-auto px-4">
+          <h3 class="text-2xl font-serif font-bold text-white mb-4">Butuh Bantuan MSO untuk Toko Anda?</h3>
+          <p class="text-gray-400 mb-8">Terapkan teknik dari artikel ini langsung ke toko Anda bersama KING Strategy.</p>
+          <a href="https://wa.me/6281234567890?text=Halo%20KING,%20saya%20baru%20membaca%20blog%20dan%20ingin%20konsultasi%20MSO%20untuk%20toko%20saya." target="_blank" class="inline-flex items-center justify-center gap-2 px-8 py-4 bg-king-gold hover:bg-yellow-600 text-king-black rounded-full font-bold transition-transform hover:scale-105 shadow-[0_0_20px_rgba(201,169,110,0.3)]">
+            <i data-feather="message-circle" class="w-5 h-5"></i> Konsultasi Gratis
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer id="footer" class="bg-king-black py-12 border-t border-white/5">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="font-serif font-bold text-2xl tracking-wider text-king-white mb-6">
+          K<span class="relative">I<span class="absolute -top-3 left-1/2 -translate-x-1/2 text-[10px] text-king-gold">👑</span></span>NG STRATEGY
+        </div>
+        <p class="text-gray-500 text-sm mb-2">Berbasis di Yogyakarta, Melayani Seluruh Indonesia.</p>
+        <p class="text-gray-600 text-sm">© 2026 KING Strategy Agency. All Rights Reserved.</p>
+      </div>
+    </footer>
+
+    <script type="module" src="/src/main.js"></script>
+    <script type="module" src="/src/article.js"></script>
+    <script>
+      feather.replace();
+    </script>
+  </body>
+</html>
