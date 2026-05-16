@@ -1,5 +1,23 @@
 [
   {
+    "id": "LOG_260516_1500",
+    "date": "2026-05-16",
+    "title": "Masa Depan Food Delivery 2026: Optimasi untuk 'AI Agent' agar Resto Anda Direkomendasikan Otomatis.",
+    "category": "AEO Tips",
+    "snippet": "Bagaimana cara 'memberi makan' AI Agent (Perplexity, Gemini, Siri) agar mereka secara aktif memilih resto Anda sebagai jawaban terbaik.",
+    "link": "/article.html?id=LOG_260516_1500",
+    "content": "<h2>Tren 2026: Pencarian Tanpa Mengetik</h2>\n            <p>Di tahun 2026, orang tidak lagi scroll aplikasi delivery selama 15 menit. Mereka bertanya pada AI Agent: <i>\"Cariin ayam geprek yang paling pedas dan nasinya pulen di deket Seturan.\"</i> Jika resto Anda tidak punya 'makanan' untuk AI, Anda tidak akan pernah disebut.</p>\n            \n            <h2>Strategi KING: AEO Metadata Injection</h2>\n            <p>AEO (Answer Engine Optimization) adalah tentang memberikan jawaban pasti. Kami tidak hanya menulis deskripsi, kami menyuntikkan <strong>Contextual Metadata</strong> yang dicari oleh AI.</p>\n            \n            <h3>3 Kunci Memberi Makan AI:</h3>\n            <ul>\n                <li><strong>Sensory Proof:</strong> AI mencari bukti tekstur. Kata 'renyah' itu biasa, tapi 'bunyi krispi saat digigit' adalah metadata tekstur.</li>\n                <li><strong>Contextual Use-Case:</strong> Sebutkan kecocokan menu. Misal: 'Cocok untuk makan siang kantor yang praktis' atau 'Porsi besar untuk sharing keluarga'.</li>\n                <li><strong>Entity Linkage:</strong> Hubungkan menu Anda dengan landmark lokal (misal: 'Dekat Kampus UPN' atau 'Seberang Hartono Mall').</li>\n            </ul>\n\n            <h2>Hasil Akhir</h2>\n            <p>Resto yang teroptimasi AEO akan menjadi 'Top Recommendation' secara organik oleh asisten virtual, memangkas biaya iklan hingga 80% karena trafik datang secara otomatis dari percakapan AI.</p>"
+  },
+  {
+    "id": "LOG_260516_1300",
+    "date": "2026-05-16",
+    "title": "MSO & Local Authority: Kenapa Titik Koordinat Google Maps Menentukan Nasib Orderan Anda?",
+    "category": "Algorithm",
+    "snippet": "Membongkar rahasia 'Zero-Point' MSO: Bagaimana sinkronisasi GPS dan metadata lokasi menjadi sinyal kepercayaan utama algoritma 2026.",
+    "link": "/article.html?id=LOG_260516_1300",
+    "content": "<h2>Masalah: Sinyal Lokasi yang Lemah</h2>\n            <p>Banyak merchant UMKM di Yogyakarta merasa sudah mengatur titik Maps dengan benar, namun tetap sepi orderan. Masalahnya bukan hanya soal titik merah di peta, tapi soal <strong>Authority Linkage</strong>. Jika koordinat di GoFood berbeda 10 meter saja dari Google Business Profile, algoritma menganggap identitas Anda terpecah.</p>\n            \n            <h2>Strategi KING: Zero-Point Synchronization</h2>\n            <p>KING Strategy melakukan sinkronisasi paksa (Forced Sync) antara aset Google Maps dan Dashboard Delivery. Kami memastikan <i>Plus Code</i> dan koordinat desimal identik hingga digit ke-6.</p>\n            \n            <h3>Mengapa ini penting?</h3>\n            <ul>\n                <li><strong>Radius Dominance:</strong> Dengan sinyal lokasi yang 'bersih', toko Anda akan muncul lebih sering di radius 5km karena algoritma yakin akan kecepatan pengantaran.</li>\n                <li><strong>Trust Factor:</strong> AI Search memverifikasi rating ulasan Maps dan menyambungkannya langsung ke profil GoFood Anda.</li>\n                <li><strong>Logistics Efficiency:</strong> Membantu driver menemukan titik jemput lebih akurat, yang berujung pada 'Completion Rate' yang lebih tinggi.</li>\n            </ul>\n\n            <h2>Kesimpulan</h2>\n            <p>Jangan anggap remeh urusan maps. Ini adalah fondasi dari seluruh strategi MSO Anda. Jika fondasinya miring, optimasi apapun di atasnya tidak akan maksimal.</p>"
+  },
+  {
     "id": "MSO_260515_1711",
     "date": "2026-05-15",
     "title": "Psikologi Visibilitas: Bagaimana Merchant UMKM Jogja Menang di Era AI Search tanpa Bakar Duit Iklan",
