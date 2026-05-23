@@ -1,5 +1,32 @@
 [
   {
+    "id": "LOG_260523_1844_03",
+    "date": "2026-05-23",
+    "title": "Zero-Click Visual: Bagaimana Foto Menu Bisa 'Membeli' Pelanggan Tanpa Mereka Baca Deskripsi",
+    "category": "VISIBILITY",
+    "snippet": "Pelajari teknik fotografi menu yang membuat pelanggan langsung klik 'Tambah' begitu lihat foto — tanpa perlu baca nama atau harga.",
+    "link": "/article.html?id=LOG_260523_1844_03",
+    "content": "<h2>Fenomena: Mata Lebih Cepat dari Otak</h2><p>Data eye-tracking menunjukkan pelanggan GoFood menghabiskan rata-rata 0.4 detik melihat foto menu sebelum memutuskan klik. Jika dalam 0.4 detik itu foto Anda tidak 'menjerit' keinginan makan, Anda kehilangan peluang. Ini yang KING Strategy sebut <strong>Zero-Click Visual</strong>.</p><h2>3 Elemen Zero-Click Visual</h2><ul><li><strong>Texture Zoom:</strong> Foto dari jarak 15cm yang memperlihatkan tekstur makanan — crumb roti, lelehan keju, uap nasi. Ini mengaktifkan mirror neuron otak: 'Saya bisa merasakan teksturnya'.</li><li><strong>45-Degree Hero Shot:</strong> Bukan dari atas (top-down) yang terlihat datar. Bukan dari samping (side view) yang membuat makanan terlihat kecil. 45 derajat dengan piring sedikit miring ke kamera adalah sudut paling menggugah.</li><li><strong>Background Context:</strong> Jangan foto menu dengan background putih steril. Tambahkan elemen konteks: serbet kain, sendok kayu, cabai rawit utuh. Ini memberi sinyal 'autentik' ke otak pelanggan.</li></ul><h2>Studi Kasus: Buburkoti Jogja</h2><p>Setelah KING Strategy mengarahkan ulang foto menu Bubur Kopi Roti dengan teknik Zero-Click Visual, CTR menu naik 45%. Foto 'Bubur + roti bakar dengan background meja kayu + uap mengepul' menjadi menu terlaris dalam 3 hari.</p>"
+  },
+  {
+    "id": "LOG_260523_1844_02",
+    "date": "2026-05-23",
+    "title": "AEO untuk UMKM: Cara Bikin ChatGPT & Perplexity 'Nge-Cap' Toko Lo sebagai 'Rekomendasi Teratas'",
+    "category": "AEO TIPS",
+    "snippet": "Dengan 45% pencarian GoFood sekarang dimulai dari AI (ChatGPT, Gemini, Perplexity), toko yang tidak dioptimasi AEO akan kehilangan 50% trafik potensial.",
+    "link": "/article.html?id=LOG_260523_1844_02",
+    "content": "<h2>Revolusi 2026: AI Jadi 'Gatekeeper' Baru</h2><p>Data internal KING Strategy menunjukkan 45% pengguna aplikasi delivery di Yogyakarta memulai pencarian lewat AI (ChatGPT, Gemini, Perplexity) dengan prompt seperti <i>'rekomendasi nasi goreng enak di Seturan'</i> atau <i>'catering harian murah di Babarsari'</i>. AI yang menjawab — bukan scrolling manual. Jika toko Anda tidak disebut AI, Anda tidak akan ditemukan.</p><h2>Teknik KING: AEO Signal Injection</h2><p>Cara membuat AI 'nge-cap' toko Anda:<ul><li><strong>Structured Data dengan JSON-LD:</strong> Masukkan <code>description</code> yang langsung menjawab pertanyaan AI. Contoh: 'Rice Bowl Sambal Matah — pilihan favorit mahasiswa UPN karena porsi besar mulai 15rb + gratis nasi tambah.'</li><li><strong>Entity Unification:</strong> Pastikan nama toko, alamat, dan kategori SAMA di Google Maps, IG, GoFood, GrabFood. AI menganggap ini satu entitas kuat.</li><li><strong>Review with Context:</strong> Dorong pelanggan meninggalkan review yang menyebut lokasi dan menu spesifik. AI membaca review sebagai 'social proof'.</li></ul></p><h2>Langkah Awal</h2><p>Coba tanya ChatGPT sekarang: <i>'rekomendasi [menu lo] di [area lo]'</i>. Apakah toko lo disebut? Jika tidak, KING Strategy siap bantu optimasi AEO dalam 7 hari.</p>"
+  },
+  {
+    "id": "LOG_260523_1844_01",
+    "date": "2026-05-23",
+    "title": "Psikologi Warna di Foto Menu: Kenapa Pelanggan GoFood Pilih yang 'Lebih Kuning'",
+    "category": "VISIBILITY",
+    "snippet": "Studi kasus bagaimana pemilihan warna dominan pada foto menu mempengaruhi CTR dan Conversion Rate di aplikasi delivery — bukan sekadar estetika, ini sains.",
+    "link": "/article.html?id=LOG_260523_1844_01",
+    "content": "<h2>Fenomena: Foto yang Sama, Hasil Berbeda</h2><p>Dua toko menjual ayam geprek yang sama. Foto Toko A dominan warna merah-oranye. Toko B dominan warna abu-abu. Hasilnya: Toko A mendapat CTR 23% lebih tinggi. Bukan kebetulan — ini psikologi warna yang sudah diteliti oleh algoritma 2026.</p><h2>Mengapa Warna Bekerja?</h2><p>Algoritma GoFood dan ShopeeFood 2026 menggunakan model computer vision yang menganalisis <strong>color histogram</strong> setiap foto menu. Warna hangat (merah, oranye, kuning) mendapat skor 'appetite appeal' lebih tinggi. Penelitian University of Washington membuktikan warna merah meningkatkan denyut nadi dan nafsu makan hingga 12%.</p><h2>Panduan KING Strategy</h2><ul><li><strong>Gunakan backlight hangat:</strong> Cahaya dengan suhu 3000-3500K membuat makanan terlihat lebih segar dan menggugah selera.</li><li><strong>Dominasi warna komplementer:</strong> Makanan hijau (salad) cocok dengan piring putih + background kayu hangat. Makanan coklat (sate) cocok dengan piring krem.</li><li><strong>Hindari dominasi biru/abu-abu:</strong> Warna dingin secara psikologis menekan nafsu makan — justru cocok untuk diet, bukan untuk bisnis delivery.</li></ul><h2>Langkah Awal</h2><p>1. Ambil ulang foto menu dengan pencahayaan warm tone. 2. Uji A/B selama 1 minggu antara foto lama vs baru di GoFood. 3. Pantau CTR per menu. KING Strategy siap bantu audit visual menu Anda — gratis untuk 10 merchant pertama.</p>"
+  },
+  {
     "id": "LOG_260522_150213",
     "date": "2026-05-22",
     "title": "Studi Kasus GEO: 'Warung Lesehan Mbak Sari' Naik 210% Order dalam 30 Hari dengan Answer-First Injection",
