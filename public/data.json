@@ -1,5 +1,32 @@
 [
   {
+    "id": "LOG_260524_1606_03",
+    "date": "2026-05-24",
+    "title": "GrabFood 2026: Strategi 'Peak Hour Domination' untuk Merchant Lokal Jogja",
+    "category": "ALGORITHM",
+    "snippet": "Bongkar cara algoritma GrabFood memprioritaskan toko tertentu di jam sibuk (lunch & dinner) — dan strategi tepat untuk masuk radar tanpa biaya iklan.",
+    "link": "/article.html?id=LOG_260524_1606_03",
+    "content": "<h2>Masalah: Jam Sibuk Tapi Order Sepi</h2><p>Ironisnya, banyak UMKM Jogja justru paling sepi di jam sibuk (11:30-13:00 dan 18:00-20:00). Kenapa? Karena algoritma GrabFood memprioritaskan toko dengan <strong>Preparation Time</strong> rendah dan <strong>Completion Rate</strong> tinggi di jam-jam tersebut. Jika toko Anda punya riwayat slow preparation, Anda akan 'ditenggelamkan' di jam sibuk.</p><h2>Teknik KING: Peak Hour Domination</h2><p>KING Strategy mengembangkan pendekatan sistematis:<ul><li><strong>SOP Dapur 2-Lane:</strong> Pisahkan jalur produksi untuk menu best seller (yang selalu dipesan) dan menu variasi. Ini memangkas preparation time rata-rata 4 menit.</li><li><strong>Prep Stock 30 Menit Sebelum:</strong> Siapkan bahan baku menu terlaris 30 menit sebelum jam sibuk dimulai. Hitungan kami: ini menghemat 8-12 menit per order.</li><li><strong>Menu Optimization by Hour:</strong> Nonaktifkan menu yang lama dibuat saat jam sibuk. Simpan untuk jam sepi. Algoritma membaca ini sebagai 'efisiensi'.</li></ul></p><h2>Hasil Nyata</h2><p>Klien KING Strategy di area Seturan setelah menerapkan Peak Hour SOP: preparation time turun dari 22 menit ke 14 menit, Completion Rate naik dari 89% ke 97%, dan order di jam sibuk naik 34% dalam 10 hari. Tanpa iklan.</p>"
+  },
+  {
+    "id": "LOG_260524_1606_02",
+    "date": "2026-05-24",
+    "title": "GrabFood 2026: Strategi 'Peak Hour Domination' untuk Merchant Lokal Jogja",
+    "category": "ALGORITHM",
+    "snippet": "Bongkar cara algoritma GrabFood memprioritaskan toko tertentu di jam sibuk (lunch & dinner) — dan strategi tepat untuk masuk radar tanpa biaya iklan.",
+    "link": "/article.html?id=LOG_260524_1606_02",
+    "content": "<h2>Masalah: Jam Sibuk Tapi Order Sepi</h2><p>Ironisnya, banyak UMKM Jogja justru paling sepi di jam sibuk (11:30-13:00 dan 18:00-20:00). Kenapa? Karena algoritma GrabFood memprioritaskan toko dengan <strong>Preparation Time</strong> rendah dan <strong>Completion Rate</strong> tinggi di jam-jam tersebut. Jika toko Anda punya riwayat slow preparation, Anda akan 'ditenggelamkan' di jam sibuk.</p><h2>Teknik KING: Peak Hour Domination</h2><p>KING Strategy mengembangkan pendekatan sistematis:<ul><li><strong>SOP Dapur 2-Lane:</strong> Pisahkan jalur produksi untuk menu best seller (yang selalu dipesan) dan menu variasi. Ini memangkas preparation time rata-rata 4 menit.</li><li><strong>Prep Stock 30 Menit Sebelum:</strong> Siapkan bahan baku menu terlaris 30 menit sebelum jam sibuk dimulai. Hitungan kami: ini menghemat 8-12 menit per order.</li><li><strong>Menu Optimization by Hour:</strong> Nonaktifkan menu yang lama dibuat saat jam sibuk. Simpan untuk jam sepi. Algoritma membaca ini sebagai 'efisiensi'.</li></ul></p><h2>Hasil Nyata</h2><p>Klien KING Strategy di area Seturan setelah menerapkan Peak Hour SOP: preparation time turun dari 22 menit ke 14 menit, Completion Rate naik dari 89% ke 97%, dan order di jam sibuk naik 34% dalam 10 hari. Tanpa iklan.</p>"
+  },
+  {
+    "id": "LOG_260524_1606_01",
+    "date": "2026-05-24",
+    "title": "Content Gap Analysis: Menu Apa yang Laku di GoFood Tapi Tidak di ShopeeFood?",
+    "category": "MSO DEEP DIVE",
+    "snippet": "Fakta mengejutkan: 60% menu best seller GoFood berbeda dengan ShopeeFood untuk toko yang sama. Pelajari cara memetakan preferensi platform.",
+    "link": "/article.html?id=LOG_260524_1606_01",
+    "content": "<h2>Fenomena: Dua Platform, Dua Realitas</h2><p>Seorang klien KING (Kopi Kenangan Mantan, area Babarsari) heran kenapa menu Es Kopi Susu Gula Aren sangat laris di GoFood (100+ box/minggu) tapi hanya 12 box/minggu di ShopeeFood. Setelah dianalisis, ternyata demografi pengguna dua platform berbeda: GoFood didominasi pekerja kantoran yang mencari kopi, ShopeeFood didominasi mahasiswa yang mencari makanan berat.</p><h2>Teknik KING: Cross-Platform Menu Audit</h2><p>Kami melakukan audit dengan metode <strong>Content Gap Analysis</strong>:<ul><li><strong>Data Dump 30 Hari:</strong> Export data penjualan dari GoFood, GrabFood, dan ShopeeFood. Bandingkan menu terlaris per platform.</li><li><strong>Platform Persona Mapping:</strong> GoFood = quality & speed, GrabFood = promo & variety, ShopeeFood = harga & bundling. Optimasi deskripsi sesuai persona.</li><li><strong>Redirect Strategy:</strong> Jika menu A laris di GoFood tapi sepi di ShopeeFood, jangan hapus — alihkan promosi ke menu B yang sesuai demografi ShopeeFood.</li></ul></p><h2>Hasil</h2><p>Setelah redirect strategy, revenue total klien naik 18% tanpa tambahan biaya. Kuncinya: jangan pukul rata semua platform. Masing-masing punya 'otak' algoritma berbeda.</p>"
+  },
+  {
     "id": "LOG_260523_1844_03",
     "date": "2026-05-23",
     "title": "Zero-Click Visual: Bagaimana Foto Menu Bisa 'Membeli' Pelanggan Tanpa Mereka Baca Deskripsi",
