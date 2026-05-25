@@ -18,15 +18,6 @@
     "content": "<h2>Masalah: Jam Sibuk Tapi Order Sepi</h2><p>Ironisnya, banyak UMKM Jogja justru paling sepi di jam sibuk (11:30-13:00 dan 18:00-20:00). Kenapa? Karena algoritma GrabFood memprioritaskan toko dengan <strong>Preparation Time</strong> rendah dan <strong>Completion Rate</strong> tinggi di jam-jam tersebut. Jika toko Anda punya riwayat slow preparation, Anda akan 'ditenggelamkan' di jam sibuk.</p><h2>Teknik KING: Peak Hour Domination</h2><p>KING Strategy mengembangkan pendekatan sistematis:<ul><li><strong>SOP Dapur 2-Lane:</strong> Pisahkan jalur produksi untuk menu best seller (yang selalu dipesan) dan menu variasi. Ini memangkas preparation time rata-rata 4 menit.</li><li><strong>Prep Stock 30 Menit Sebelum:</strong> Siapkan bahan baku menu terlaris 30 menit sebelum jam sibuk dimulai. Hitungan kami: ini menghemat 8-12 menit per order.</li><li><strong>Menu Optimization by Hour:</strong> Nonaktifkan menu yang lama dibuat saat jam sibuk. Simpan untuk jam sepi. Algoritma membaca ini sebagai 'efisiensi'.</li></ul></p><h2>Hasil Nyata</h2><p>Klien KING Strategy di area Seturan setelah menerapkan Peak Hour SOP: preparation time turun dari 22 menit ke 14 menit, Completion Rate naik dari 89% ke 97%, dan order di jam sibuk naik 34% dalam 10 hari. Tanpa iklan.</p>"
   },
   {
-    "id": "LOG_260525_1710_02",
-    "date": "2026-05-25",
-    "title": "GrabFood 2026: Strategi 'Peak Hour Domination' untuk Merchant Lokal Jogja",
-    "category": "ALGORITHM",
-    "snippet": "Bongkar cara algoritma GrabFood memprioritaskan toko tertentu di jam sibuk (lunch & dinner) — dan strategi tepat untuk masuk radar tanpa biaya iklan.",
-    "link": "/article.html?id=LOG_260525_1710_02",
-    "content": "<h2>Masalah: Jam Sibuk Tapi Order Sepi</h2><p>Ironisnya, banyak UMKM Jogja justru paling sepi di jam sibuk (11:30-13:00 dan 18:00-20:00). Kenapa? Karena algoritma GrabFood memprioritaskan toko dengan <strong>Preparation Time</strong> rendah dan <strong>Completion Rate</strong> tinggi di jam-jam tersebut. Jika toko Anda punya riwayat slow preparation, Anda akan 'ditenggelamkan' di jam sibuk.</p><h2>Teknik KING: Peak Hour Domination</h2><p>KING Strategy mengembangkan pendekatan sistematis:<ul><li><strong>SOP Dapur 2-Lane:</strong> Pisahkan jalur produksi untuk menu best seller (yang selalu dipesan) dan menu variasi. Ini memangkas preparation time rata-rata 4 menit.</li><li><strong>Prep Stock 30 Menit Sebelum:</strong> Siapkan bahan baku menu terlaris 30 menit sebelum jam sibuk dimulai. Hitungan kami: ini menghemat 8-12 menit per order.</li><li><strong>Menu Optimization by Hour:</strong> Nonaktifkan menu yang lama dibuat saat jam sibuk. Simpan untuk jam sepi. Algoritma membaca ini sebagai 'efisiensi'.</li></ul></p><h2>Hasil Nyata</h2><p>Klien KING Strategy di area Seturan setelah menerapkan Peak Hour SOP: preparation time turun dari 22 menit ke 14 menit, Completion Rate naik dari 89% ke 97%, dan order di jam sibuk naik 34% dalam 10 hari. Tanpa iklan.</p>"
-  },
-  {
     "id": "LOG_260525_1710_01",
     "date": "2026-05-25",
     "title": "Menu Psikologi: Teknik 'Decoy Pricing' untuk Naikkan AOV Tanpa Pelanggan Sadar",
