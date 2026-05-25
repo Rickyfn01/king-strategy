@@ -1,5 +1,14 @@
 [
   {
+    "id": "LOG_260525_2122_01",
+    "date": "2026-05-25",
+    "title": "Psikologi Warna di Foto Menu: Kenapa Pelanggan GoFood Pilih yang 'Lebih Kuning'",
+    "category": "VISIBILITY",
+    "snippet": "Studi kasus bagaimana pemilihan warna dominan pada foto menu mempengaruhi CTR dan Conversion Rate di aplikasi delivery — bukan sekadar estetika, ini sains.",
+    "link": "/article.html?id=LOG_260525_2122_01",
+    "content": "<h2>Fenomena: Foto yang Sama, Hasil Berbeda</h2><p>Dua toko menjual ayam geprek yang sama. Foto Toko A dominan warna merah-oranye. Toko B dominan warna abu-abu. Hasilnya: Toko A mendapat CTR 23% lebih tinggi. Bukan kebetulan — ini psikologi warna yang sudah diteliti oleh algoritma 2026.</p><h2>Mengapa Warna Bekerja?</h2><p>Algoritma GoFood dan ShopeeFood 2026 menggunakan model computer vision yang menganalisis <strong>color histogram</strong> setiap foto menu. Warna hangat (merah, oranye, kuning) mendapat skor 'appetite appeal' lebih tinggi. Penelitian University of Washington membuktikan warna merah meningkatkan denyut nadi dan nafsu makan hingga 12%.</p><h2>Panduan KING Strategy</h2><ul><li><strong>Gunakan backlight hangat:</strong> Cahaya dengan suhu 3000-3500K membuat makanan terlihat lebih segar dan menggugah selera.</li><li><strong>Dominasi warna komplementer:</strong> Makanan hijau (salad) cocok dengan piring putih + background kayu hangat. Makanan coklat (sate) cocok dengan piring krem.</li><li><strong>Hindari dominasi biru/abu-abu:</strong> Warna dingin secara psikologis menekan nafsu makan — justru cocok untuk diet, bukan untuk bisnis delivery.</li></ul><h2>Langkah Awal</h2><p>1. Ambil ulang foto menu dengan pencahayaan warm tone. 2. Uji A/B selama 1 minggu antara foto lama vs baru di GoFood. 3. Pantau CTR per menu. KING Strategy siap bantu audit visual menu Anda — gratis untuk 10 merchant pertama.</p>"
+  },
+  {
     "id": "LOG_260525_1710_03",
     "date": "2026-05-25",
     "title": "GrabFood 2026: Strategi 'Peak Hour Domination' untuk Merchant Lokal Jogja",
