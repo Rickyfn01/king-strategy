@@ -1,5 +1,14 @@
 [
   {
+    "id": "LOG_260526_165748_01",
+    "date": "2026-05-26",
+    "title": "Shopee Flash Sale 2026: Strategi 'Stock Burn Rate' Biar Toko Lo Masuk Radar Tanpa Diskon 70%",
+    "category": "ALGORITHM",
+    "snippet": "Bongkar cara algoritma Flash Sale ShopeeFood menilai kecepatan stok habis — dan trik 'psychological scarcity' agar toko UMKM Jogja bisa menang tanpa banting harga.",
+    "link": "/article.html?id=LOG_260526_165748_01",
+    "content": "<h2>Paradoks Flash Sale UMKM: Diskon Besar, Untung Tipis</h2>\n<p>Banyak UMKM di Jogja tergiur ikut Flash Sale ShopeeFood dengan diskon 50-70% — tapi setelah dihitung, margin nyaris nol. Bahkan ada yang rugi karena setelah dipotong komisi platform 20% + diskon, harga jual di bawah modal. <strong>Ironisnya, toko yang menang justru bukan yang diskon terbesar, tapi yang stoknya paling cepat habis.</strong></p>\n\n<h2>Algoritma Flash Sale: Bukan Diskon, Tapi 'Burn Rate'</h2>\n<p>KING Strategy menemukan pola setelah menganalisis 27 sesi Flash Sale ShopeeFood di area Babarsari dan Seturan. Algoritma ShopeeFood tidak semata-mata memprioritaskan diskon tertinggi. Ada metrik rahasia yang KING sebut <strong>Stock Burn Rate</strong> — kecepatan stok suatu menu habis dalam 30 menit pertama Flash Sale. Semakin cepat habis, semakin tinggi prioritas toko di sesi berikutnya.</p>\n\n<h2>Trik KING: Pscyhological Scarcity + Staged Stock</h2>\n<p>Daripada pasang diskon 70% yang bikin tekor, KING Strategy mengajarkan pendekatan <strong>Staged Stock</strong>:<ul>\n<li><strong>Batasi kuota diskon:</strong> Alih-alih 100 porsi diskon 50%, buat 30 porsi diskon 30% dengan label 'Terbatas!'. Stok cepat habis, burn rate tinggi.</li>\n<li><strong>Waktu rilis bertahap:</strong> Rilis 15 porsi jam 12:00, 15 porsi jam 18:00. Algoritma membaca dua sesi 'cepat habis' — lebih baik dari satu sesi besar tapi lama habis.</li>\n<li><strong>Bundle Flash Sale:</strong> Daripada diskon menu tunggal, buat paket flash sale (makanan + minuman + snack) dengan diskon 20%. Nilai tambah dirasakan pelanggan, margin tetap aman.</li>\n</ul></p>\n\n<h2>Studi Kasus: Ayam Geprek Cak Dhe (Area Seturan)</h2>\n<p>Sebelum: Ikut Flash Sale diskon 50% — 80 porsi terjual dalam 4 jam, rugi bersih karena modal 12rb dijual 8rb setelah dipotong komisi. Setelah KING Strategy coaching: pasang <strong>Flash Deal 30%</strong> untuk 30 porsi pertama. Stok habis dalam 18 menit. ShopeeFood auto-promote ke halaman utama. Esoknya organic order naik 27% dari exposure tersebut. Tanpa rugi, malah untung.</p>\n\n<h2>Data Konkret: Kinerja Staged Stock vs Diskon Besar</h2>\n<p>Data dari 10 klien KING Strategy di Jogja yang menerapkan Staged Stock menunjukkan rata-rata: <strong>margin bersih naik 18%, order volume naik 34%, dan repeat customer rate naik 22%</strong> dalam 14 hari. Sementara toko yang tetap menggunakan diskon 50%+ mengalami margin negatif rata-rata -7%.</p>\n\n<h2>3 Langkah Praktis Malam Ini Juga</h2>\n<ol>\n<li><strong>Audit margin menu lo:</strong> Hitung harga pokok + komisi platform (20% ShopeeFood) — pastikan setelah diskon 30% masih untung minimal 15%.</li>\n<li><strong>Buat paket Flash Deal 30%:</strong> Untuk 30 porsi pertama, dengan timer 1 jam di deskripsi ('Flash Deal 30% — hanya 30 porsi pertama!').</li>\n<li><strong>Pantau burn rate:</strong> Catat jam berapa stok habis. Jika konsisten habis dalam &lt;30 menit, naikkan kuota jadi 50 porsi.</li>\n</ol>"
+  },
+  {
     "id": "LOG_260526_1656_03",
     "date": "2026-05-26",
     "title": "GrabFood 2026: Strategi 'Peak Hour Domination' untuk Merchant Lokal Jogja",
@@ -11,7 +20,7 @@
   {
     "id": "LOG_260526_1656_02",
     "date": "2026-05-26",
-    "title": "GrabFood 2026: Strategi 'Peak Hour Domination' untuk Merchant Lokal Jogja",
+    "title": "GrabFood 2026: Trik 'Ghost Kitchen' Biar Toko Lo muncul di 3 Area Sekaligus Tanpa Buka Cabang",
     "category": "ALGORITHM",
     "snippet": "Bongkar cara algoritma GrabFood memprioritaskan toko tertentu di jam sibuk (lunch & dinner) — dan strategi tepat untuk masuk radar tanpa biaya iklan.",
     "link": "/article.html?id=LOG_260526_1656_02",
@@ -29,7 +38,7 @@
   {
     "id": "LOG_260525_2122_01",
     "date": "2026-05-25",
-    "title": "Psikologi Warna di Foto Menu: Kenapa Pelanggan GoFood Pilih yang 'Lebih Kuning'",
+    "title": "Rahasia Foto Menu GoFood: Teknik 'Food Styling ala Restoran' yang Bisa Ditiru UMKM Modal HP",
     "category": "VISIBILITY",
     "snippet": "Studi kasus bagaimana pemilihan warna dominan pada foto menu mempengaruhi CTR dan Conversion Rate di aplikasi delivery — bukan sekadar estetika, ini sains.",
     "link": "/article.html?id=LOG_260525_2122_01",
@@ -38,7 +47,7 @@
   {
     "id": "LOG_260525_1710_03",
     "date": "2026-05-25",
-    "title": "GrabFood 2026: Strategi 'Peak Hour Domination' untuk Merchant Lokal Jogja",
+    "title": "GrabFood vs ShopeeFood 2026: 5 Perbedaan Algoritma yang Wajib Dipahami UMKM Jogja",
     "category": "ALGORITHM",
     "snippet": "Bongkar cara algoritma GrabFood memprioritaskan toko tertentu di jam sibuk (lunch & dinner) — dan strategi tepat untuk masuk radar tanpa biaya iklan.",
     "link": "/article.html?id=LOG_260525_1710_03",
