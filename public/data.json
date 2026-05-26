@@ -1,5 +1,32 @@
 [
   {
+    "id": "LOG_260526_1656_03",
+    "date": "2026-05-26",
+    "title": "GrabFood 2026: Strategi 'Peak Hour Domination' untuk Merchant Lokal Jogja",
+    "category": "ALGORITHM",
+    "snippet": "Bongkar cara algoritma GrabFood memprioritaskan toko tertentu di jam sibuk (lunch & dinner) — dan strategi tepat untuk masuk radar tanpa biaya iklan.",
+    "link": "/article.html?id=LOG_260526_1656_03",
+    "content": "<h2>Masalah: Jam Sibuk Tapi Order Sepi</h2><p>Ironisnya, banyak UMKM Jogja justru paling sepi di jam sibuk (11:30-13:00 dan 18:00-20:00). Kenapa? Karena algoritma GrabFood memprioritaskan toko dengan <strong>Preparation Time</strong> rendah dan <strong>Completion Rate</strong> tinggi di jam-jam tersebut. Jika toko Anda punya riwayat slow preparation, Anda akan 'ditenggelamkan' di jam sibuk.</p><h2>Teknik KING: Peak Hour Domination</h2><p>KING Strategy mengembangkan pendekatan sistematis:<ul><li><strong>SOP Dapur 2-Lane:</strong> Pisahkan jalur produksi untuk menu best seller (yang selalu dipesan) dan menu variasi. Ini memangkas preparation time rata-rata 4 menit.</li><li><strong>Prep Stock 30 Menit Sebelum:</strong> Siapkan bahan baku menu terlaris 30 menit sebelum jam sibuk dimulai. Hitungan kami: ini menghemat 8-12 menit per order.</li><li><strong>Menu Optimization by Hour:</strong> Nonaktifkan menu yang lama dibuat saat jam sibuk. Simpan untuk jam sepi. Algoritma membaca ini sebagai 'efisiensi'.</li></ul></p><h2>Hasil Nyata</h2><p>Klien KING Strategy di area Seturan setelah menerapkan Peak Hour SOP: preparation time turun dari 22 menit ke 14 menit, Completion Rate naik dari 89% ke 97%, dan order di jam sibuk naik 34% dalam 10 hari. Tanpa iklan.</p>"
+  },
+  {
+    "id": "LOG_260526_1656_02",
+    "date": "2026-05-26",
+    "title": "GrabFood 2026: Strategi 'Peak Hour Domination' untuk Merchant Lokal Jogja",
+    "category": "ALGORITHM",
+    "snippet": "Bongkar cara algoritma GrabFood memprioritaskan toko tertentu di jam sibuk (lunch & dinner) — dan strategi tepat untuk masuk radar tanpa biaya iklan.",
+    "link": "/article.html?id=LOG_260526_1656_02",
+    "content": "<h2>Masalah: Jam Sibuk Tapi Order Sepi</h2><p>Ironisnya, banyak UMKM Jogja justru paling sepi di jam sibuk (11:30-13:00 dan 18:00-20:00). Kenapa? Karena algoritma GrabFood memprioritaskan toko dengan <strong>Preparation Time</strong> rendah dan <strong>Completion Rate</strong> tinggi di jam-jam tersebut. Jika toko Anda punya riwayat slow preparation, Anda akan 'ditenggelamkan' di jam sibuk.</p><h2>Teknik KING: Peak Hour Domination</h2><p>KING Strategy mengembangkan pendekatan sistematis:<ul><li><strong>SOP Dapur 2-Lane:</strong> Pisahkan jalur produksi untuk menu best seller (yang selalu dipesan) dan menu variasi. Ini memangkas preparation time rata-rata 4 menit.</li><li><strong>Prep Stock 30 Menit Sebelum:</strong> Siapkan bahan baku menu terlaris 30 menit sebelum jam sibuk dimulai. Hitungan kami: ini menghemat 8-12 menit per order.</li><li><strong>Menu Optimization by Hour:</strong> Nonaktifkan menu yang lama dibuat saat jam sibuk. Simpan untuk jam sepi. Algoritma membaca ini sebagai 'efisiensi'.</li></ul></p><h2>Hasil Nyata</h2><p>Klien KING Strategy di area Seturan setelah menerapkan Peak Hour SOP: preparation time turun dari 22 menit ke 14 menit, Completion Rate naik dari 89% ke 97%, dan order di jam sibuk naik 34% dalam 10 hari. Tanpa iklan.</p>"
+  },
+  {
+    "id": "LOG_260526_1656_01",
+    "date": "2026-05-26",
+    "title": "Psikologi Warna di Foto Menu: Kenapa Pelanggan GoFood Pilih yang 'Lebih Kuning'",
+    "category": "VISIBILITY",
+    "snippet": "Studi kasus bagaimana pemilihan warna dominan pada foto menu mempengaruhi CTR dan Conversion Rate di aplikasi delivery — bukan sekadar estetika, ini sains.",
+    "link": "/article.html?id=LOG_260526_1656_01",
+    "content": "<h2>Fenomena: Foto yang Sama, Hasil Berbeda</h2><p>Dua toko menjual ayam geprek yang sama. Foto Toko A dominan warna merah-oranye. Toko B dominan warna abu-abu. Hasilnya: Toko A mendapat CTR 23% lebih tinggi. Bukan kebetulan — ini psikologi warna yang sudah diteliti oleh algoritma 2026.</p><h2>Mengapa Warna Bekerja?</h2><p>Algoritma GoFood dan ShopeeFood 2026 menggunakan model computer vision yang menganalisis <strong>color histogram</strong> setiap foto menu. Warna hangat (merah, oranye, kuning) mendapat skor 'appetite appeal' lebih tinggi. Penelitian University of Washington membuktikan warna merah meningkatkan denyut nadi dan nafsu makan hingga 12%.</p><h2>Panduan KING Strategy</h2><ul><li><strong>Gunakan backlight hangat:</strong> Cahaya dengan suhu 3000-3500K membuat makanan terlihat lebih segar dan menggugah selera.</li><li><strong>Dominasi warna komplementer:</strong> Makanan hijau (salad) cocok dengan piring putih + background kayu hangat. Makanan coklat (sate) cocok dengan piring krem.</li><li><strong>Hindari dominasi biru/abu-abu:</strong> Warna dingin secara psikologis menekan nafsu makan — justru cocok untuk diet, bukan untuk bisnis delivery.</li></ul><h2>Langkah Awal</h2><p>1. Ambil ulang foto menu dengan pencahayaan warm tone. 2. Uji A/B selama 1 minggu antara foto lama vs baru di GoFood. 3. Pantau CTR per menu. KING Strategy siap bantu audit visual menu Anda — gratis untuk 10 merchant pertama.</p>"
+  },
+  {
     "id": "LOG_260525_2122_01",
     "date": "2026-05-25",
     "title": "Psikologi Warna di Foto Menu: Kenapa Pelanggan GoFood Pilih yang 'Lebih Kuning'",
