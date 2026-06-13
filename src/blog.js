@@ -27,11 +27,11 @@ document.addEventListener('DOMContentLoaded', async () => {
             <time datetime="${log.date}" class="text-xs text-gray-500 font-mono" itemprop="datePublished">${log.date}</time>
           </div>
           <h2 class="text-2xl font-serif font-bold text-white mb-3" itemprop="headline">
-            <a href="${log.link}" class="hover:text-king-gold transition-colors" itemprop="url">${log.title}</a>
+            <a href="${log.link || `/article.html?id=${log.id}`}" class="hover:text-king-gold transition-colors" itemprop="url">${log.title}</a>
           </h2>
-          <p class="text-gray-400 text-sm leading-relaxed flex-grow mb-6" itemprop="description">${log.snippet}</p>
+          <p class="text-gray-400 text-sm leading-relaxed flex-grow mb-6" itemprop="description">${log.snippet || ''}</p>
           <div class="mt-auto pt-4 border-t border-white/5 flex items-center justify-between">
-            <a href="${log.link}" class="text-sm font-semibold text-king-gold flex items-center gap-2 hover:gap-3 transition-all cursor-pointer">
+            <a href="${log.link || `/article.html?id=${log.id}`}" class="text-sm font-semibold text-king-gold flex items-center gap-2 hover:gap-3 transition-all cursor-pointer">
               Baca Selengkapnya <i data-feather="arrow-right" class="w-4 h-4"></i>
             </a>
             <span class="text-xs text-gray-600 font-mono">${log.id}</span>
